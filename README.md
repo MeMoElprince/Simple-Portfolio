@@ -1,2 +1,2 @@
 # Simple-Portfolio
-A simple Portfolio consist of 1 page
+A simple Portfolio consisting of 1 page
